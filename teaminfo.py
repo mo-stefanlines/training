@@ -1,5 +1,3 @@
-monkey
-
 def info_Zubair():
     print("Zubair Maalick")
     print("== Scientific Software Engineer")
