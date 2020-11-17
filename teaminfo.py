@@ -1,4 +1,6 @@
-
+def info_Hannah():
+    print("Hannah Griffith")
+    print("== coding newbie")
 
 def info_Zubair():
     print("Zubair Maalick")
